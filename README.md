@@ -36,7 +36,6 @@ I focus on creating high-performance user experiences and robust backend archite
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-E535AB?style=for-the-badge&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=swagger&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-333333?style=for-the-badge&logo=socket.io&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
