@@ -59,7 +59,6 @@ I focus on creating high-performance user experiences and robust backend archite
 ## 📊 GitHub Stats  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amaank23&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=amaank23&theme=tokyonight)
 
 ---
 
